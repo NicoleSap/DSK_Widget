@@ -1,1 +1,14 @@
-.env
+#Ignore environment variables file
+.env 
+# Ignore virtual environment
+companion-env/
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (if you're using VS Code)
+.vscode/
