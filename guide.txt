@@ -5,39 +5,29 @@ A desktop application featuring a cute, animated companion powered by ChatGPT. T
 
 Core Features:
 
-ChatGPT integration for natural conversation and motivation.
-
-Display weather based on user's or friends' locations.
-
-Task tracking and daily goal reminders.
-
-Focus timer (e.g., Pomodoro sessions).
-
-Companion reactions based on user's actions and progress.
+- ChatGPT integration for natural conversation and motivation.
+- Display weather based on user's or friends' locations.
+- Task tracking and daily goal reminders.
+- Focus timer (e.g., Pomodoro sessions).
+- Companion reactions based on user's actions and progress.
 
 Interactive Features:
 
-Feed the companion with treats.
-
-Pet and play with the companion.
-
-Companion gives feedback or cheers based on progress.
+-Feed the companion with treats.
+- Pet and play with the companion.
+- Companion gives feedback or cheers based on progress.
 
 Social Features:
 
-Connect with friends and their companions.
-
-Visit friends' companions virtually.
-
-Exchange gifts or messages.
+- Connect with friends and their companions.
+- Visit friends' companions virtually.
+- Exchange gifts or messages.
 
 Customization Options:
 
-Choose character skins and themes.
-
-Set background environments.
-
-Change companion's personality or voice pack.
+- Choose character skins and themes.
+- Set background environments.
+- Change companion's personality or voice pack.
 
 Tech Stack Ideas:
 
